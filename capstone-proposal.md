@@ -3,20 +3,39 @@ Name of Student: Kelly Bruce
 Name of Project: KB Portfolio
 
 Project's Purpose or Goal: (What will it do for users?)
-Easy to navigate and read porfolio which showcases my coding ability. 
+Readable and easy to navigate porfolio which showcases my coding ability.
 
 List the absolute minimum features the project requires to meet this purpose or goal:
-Photo of me
-About Me Section
-Project Section (GitHub API) -- I also want to clean up displayed projects
-Skills Section
-Contact Section
+GitHub + linkedIn + email links frozen on every page
+NavBar - Home, projects, skills, contact
+AboutMe - photo & text block
+Projects- side scroll or clean boxes on grid with thumbnails as links to github repo or live site- name of project, short description , 
+Skills - technologies I work with + logos/thumbnails
+Contact - form that sends me an email, 
 
 
 What tools, frameworks, libraries, APIs, modules and/or other resources (whatever is specific to your track, and your language) will you use to create this MVP? List them all here. Be specific.
+React + Redux
+Tailwind CSS or Bootstrap (needs research)
+Node.js
+CSS
+HTML
+Netify (needs research)
 
 If you finish developing the minimum viable product (MVP) with time to spare, what will you work on next? Describe these features here: Be specific.
 
+GitHub API to automatically sync displayed projects with github pinned projects
+
 What additional tools, frameworks, libraries, APIs, or other resources will these additional features require?
+github API
 
 Is there anything else you'd like your instructor to know?
+
+Features:
+GitHub + linked in links frozen on every page
+NavBar - Home, Projects, contact
+AboutMe - photo, text block
+Projects - side scroll or clean boxes with thumbnails as links - name of project, short description
+Skills - technologies I work with + logos/thumbnails
+
+
