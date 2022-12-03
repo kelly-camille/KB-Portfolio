@@ -31,11 +31,5 @@ github API
 
 Is there anything else you'd like your instructor to know?
 
-Features:
-GitHub + linked in links frozen on every page
-NavBar - Home, Projects, contact
-AboutMe - photo, text block
-Projects - side scroll or clean boxes with thumbnails as links - name of project, short description
-Skills - technologies I work with + logos/thumbnails
 
 
