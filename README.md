@@ -15,7 +15,7 @@
 * 7: 18  - https://www.youtube.com/watch?v=TwiQAsqBRYk
 
 ## Sunday 12-11
-* 10: 00 - 
+* 10: 00 - start coding
 
 
 

@@ -1,12 +1,15 @@
-import './css/main.css'
+import './css/styles.css'
 import './css/normalize.css'
+import { Route } from 'react-router-dom'
+import Main from './components/main.jsx'
 import React from 'react'
 
 function App() {
   return (
     <React.Fragment>
-<h1>App.jsx</h1>
-<p>src - app.jsx</p>
+
+    <Route path='/' component={Main} />
+
    </React.Fragment>
   );
 }

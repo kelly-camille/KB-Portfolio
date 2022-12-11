@@ -21,7 +21,7 @@
 * CSS
 * HTML
 * Normalize CSS
-* Framer Motion
+* Framer Motion -- check documentation -- animation
 * Netify (needs research)
 
 ## If you finish developing the minimum viable product (MVP) with time to spare, what will you work on next? Describe these features here: Be specific.
