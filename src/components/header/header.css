@@ -1,0 +1,13 @@
+.header {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+}
+
+
+.header img {
+  width: 10rem;
+  border-radius: 50%;
+}

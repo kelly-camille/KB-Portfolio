@@ -1,10 +1,10 @@
 import React from 'react'
+import Header from './header'
 
 const Main = () => {
   return (
 <React.Fragment>
-<h1>Portfolio Project</h1>
-<p>src - components - index.jsx</p>
+  <Header/>
   </React.Fragment>
   )
 }
