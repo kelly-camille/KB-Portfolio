@@ -1,9 +1,9 @@
-import './css/styles.css'
-import './css/normalize.css'
-import { Route } from 'react-router-dom'
-import Main from './components/main.jsx'
-import React from 'react'
-
+import './css/styles.css';
+import './css/normalize.css';
+import Main from './components/main.jsx';
+import React from 'react';
+import{Route} from 'react-router-dom';
+ 
 function App() {
   return (
     <React.Fragment>
