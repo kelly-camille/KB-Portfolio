@@ -30,6 +30,3 @@
 * github API
 
 ## Is there anything else you'd like your instructor to know?
-
-
-
