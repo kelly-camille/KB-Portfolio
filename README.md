@@ -12,3 +12,6 @@
 * 5:56 - bootstrap sandbox project
 * 6:40 - bootstrap grid
 * 7: 18  - https://www.youtube.com/watch?v=TwiQAsqBRYk
+
+## Sunday 12-11
+* 10: 00 - 
