@@ -16,4 +16,11 @@
 .header img {
   width: 10rem;
   border-radius: 50%;
+  justify-self: center;
+  align-self: flex-end;
+}
+
+.main-title {
+  align-self: flex-start;
+  /* width:  */
 }
