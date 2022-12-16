@@ -23,11 +23,12 @@
 * Normalize CSS
 * Framer Motion -- check documentation -- animation
 * Vivus
-* Netify (needs research)
+* Netlify (needs research)
 * Higher order components - keep social media on every page
 
 ## If you finish developing the minimum viable product (MVP) with time to spare, what will you work on next? Describe these features here: Be specific.
 
+* Use text animations -- svg-animated file
 * GitHub API to automatically sync displayed projects with github pinned projects
 
 ## What additional tools, frameworks, libraries, APIs, or other resources will these additional features require?
