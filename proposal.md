@@ -22,7 +22,9 @@
 * HTML
 * Normalize CSS
 * Framer Motion -- check documentation -- animation
+* Vivus
 * Netify (needs research)
+* Higher order components - keep social media on every page
 
 ## If you finish developing the minimum viable product (MVP) with time to spare, what will you work on next? Describe these features here: Be specific.
 
