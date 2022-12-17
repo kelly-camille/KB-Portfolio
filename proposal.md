@@ -40,3 +40,4 @@
 * theme
 * context
 * floating Nav for mobile
+* smooth scroll (index.css)
