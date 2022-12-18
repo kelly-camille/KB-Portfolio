@@ -41,3 +41,4 @@
 * context
 * floating Nav for mobile
 * smooth scroll (index.css)
+* css cursor pointer to identify links
