@@ -40,5 +40,6 @@
 * theme
 * context
 * floating Nav for mobile
+  * remove nav bar for mobile 
 * smooth scroll (index.css)
 * css cursor pointer to identify links
