@@ -18,7 +18,7 @@ const App = () => {
       <Portfolio/>
       <Contact/>
       <Footer/>
-      <FloatingNav/>
+      {/* <FloatingNav/> */}
     </main>
 
   )
