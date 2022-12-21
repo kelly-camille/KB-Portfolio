@@ -1,6 +1,7 @@
 import logo from '../../assets/logo.png'
 import data from './data'
-import {IoIosColorPalette} from 'react-icons/io'
+import dataSocial from "./dataSocial"
+
 import './navbar.css'
 
 
@@ -16,7 +17,11 @@ const Navbar = () => {
             data.map(item=> <li key={item.id}><a href={item.link}>{item.title}</a></li>)
           }
         </ul>
-        <button id='theme__icon'><IoIosColorPalette/></button>
+        <div className="navbar__socials">
+          {
+            dataSocial.map(item => <a key={item.id} href={item.link} target="_blank" rel="noopener noreferrer">{item.icon}</a>)
+          }
+        </div>
         </div>
     </nav>
   )
