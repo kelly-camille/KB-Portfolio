@@ -1,21 +1,21 @@
 import {SiJavascript} from 'react-icons/si'
 import {RiReactjsLine} from 'react-icons/ri'
 import {FaServer} from 'react-icons/fa'
-import {AiFillAppstore} from 'react-icons/ai'
+import {AiOutlineConsoleSql} from 'react-icons/ai'
 
 
 const data = [
     {
-        id: 1, icon: <SiJavascript/>, title: 'JavaScript', desc: "Object Oriented and Functional Programming"
+        id: 1, icon: <SiJavascript/>, title: 'JavaScript | React.js', desc: "Object Oriented and Functional Programming"
     },
     {
-        id: 2, icon: <RiReactjsLine/>, title: 'React', desc: "Your product will look good and will be accessible on all devices, including mobile phones, tablets, and desktop."
+        id: 2, icon: <RiReactjsLine/>, title: 'CSS | HTML', desc: "Responsive Web Design"
     },
     {
-        id: 3, icon: <FaServer/>, title: 'C# / .NET', desc: "The security of your business/product is taken seriously right from the start of the project. I will make sure your website/app is secure from attacks."
+        id: 3, icon: <FaServer/>, title: 'C# / .NET', desc: "ASP.NET Core MVC"
     },
     {
-        id: 4, icon: <AiFillAppstore/>, title: 'APIs / SQL', desc: 'Unlike other developers in the market, I will building an app that runs on both IOS and Android devices without any extra cost to you.'
+        id: 4, icon: <AiOutlineConsoleSql/>, title: 'Backend Development', desc: 'RESTful APIs, SQL, NoSQL, GIT, TDD, Node.js'
     }
 ]
 
