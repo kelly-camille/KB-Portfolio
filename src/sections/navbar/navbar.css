@@ -25,6 +25,14 @@ nav {
   overflow: hidden; */
 }
 
+.navbar__socials {
+  position: absolute;
+
+  bottom: 150;
+  display: flex;
+  gap: 1rem;
+}
+
 /* flex display sets it at the top */
 .nav__menu {
    display: flex;
