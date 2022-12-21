@@ -1,9 +1,21 @@
+import contacts from './data.js'
 import './contact.css'
+
 
 const Contact = () => {
   return (
-    <section id="contact"><h2>contact</h2></section>
+    <section id="contact">
+      <h2>Get In Touch</h2>
+      <p>feel free to email me</p>
+      <div className="container contact__container">
+      {
+        contacts.map(contact => <a key={contact.id} href={contact.link} target="_blank" rel="noopener noreferrer">{contact.icon}</a>)
+      }
+      </div>
+      </section>
   )
 }
+
+
 
 export default Contact;
