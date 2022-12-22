@@ -11,14 +11,14 @@
 
 :root {
   /*theme customization */
-  --primary-hue: 211;
+  /* --primary-hue: 211; */
   --black-lightness: 15%;
   --dark-lightness: 44%;
   --light-lightness: 94%;
   --white-lightness: 100%;
-  --color-primary: hsl(var(--primary-hue), 37%, 49%);
-  --color-white: hsl(0, 5%, var(--white-lightness));
-  --color-light: hsl(var(--primary-hue), 5%, var(--light-lightness));
+  --color-primary: hsl(179, 78%, 42%); 
+  --color-white: hsl(203, 18%, 86%);
+  --color-light: hsl(19, 76%, 95%);
   --color-black: hsl(var(--primary-hue), 5%, var(--black-lightness));
   --color-dark: hsl(196, 11%, 26%);
 
@@ -61,6 +61,10 @@ section {
 }
 
 section:nth-child(even) {
+  background: var(--color-white)
+}
+
+section:nth-child(odd) {
   background: var(--color-white)
 }
 
