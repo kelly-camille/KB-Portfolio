@@ -1,3 +1,31 @@
+# Portfolio
+ 
+#### By **Kelly Bruce**
+ 
+#### A Scalable Portfolio 
+ 
+## Technologies Used
+ 
+* JavaScript
+* Node.js
+* React
+* HTML
+
+
+ 
+## Description
+ 
+* A fast, scalable and easy to read portfolio
+
+ 
+## Setup/Installation Requirements
+
+
+* Clone the repository to your desktop
+* Open the repository in Visual Studio Code
+* Open your terminal and navigate to the project folder folder
+* Run '$ npm install
+* open with npm run start
 
 ### Research and Planning
 ## Friday 12-2
@@ -16,9 +44,6 @@
 
 ## Sunday 12-11
 * 10: 00 - start coding
-
-
-
 
 # Getting Started with Create React App
 
@@ -90,3 +115,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Known Bugs
+ 
+* Laptop media query is not accurate for laptops -- about me specifically
+
+## License
+
+[MIT](https://en.wikipedia.org/wiki/MIT_License)
+
+Copyright (c) 2022 Kelly Bruce

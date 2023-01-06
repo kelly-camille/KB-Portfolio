@@ -4,7 +4,7 @@ import data from './data'
 import{ useState} from 'react'
 
 const Portfolio = () => {
-  const [projects, setProjects] = useState(data);
+  const [projects] = useState(data);
   return (
     <section id="portfolio">
     <h2>Recent Projects</h2>

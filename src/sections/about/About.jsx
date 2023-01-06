@@ -28,7 +28,7 @@ const About = () => {
         }
           </div>
           <p>
-            Here is another paragraph that is longer about who I am and such.
+            I achieved a Certificate in Web and Mobile Development with a focus in JavaScript and C# in January of 2023 and I'm thrilled to jump into the world of development. I spent most of my life building a successful career in event sales and marketing, but like so many people in our country, I was laid of in March of 2020. Although it was difficult to traverse through unprecedented times, it allowed me to take time to center my priorities. During that time, I learned that I value work that makes a positive impact on our community, and that I need to be solving complex problems in my day-to-day workload. A career in software development is the path I've chosen to help me fulful those goals.
           </p>
           <a href={resume} download className='btn primary'>Download Resume<HiDownload/></a>
       </div>

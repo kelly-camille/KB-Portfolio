@@ -10,7 +10,7 @@ const Header = () => {
         </div>
         <h3>Kelly Bruce</h3>
         <p>
-          Here is a paragraph about me and my interests -- why I'm here and what I can do for you
+          Fullstack Developer with a passion for building and integrating APIs
         </p>
         <div className="header__cta">
           <a href="#contact" className='btn primary'>Let's Talk</a>
